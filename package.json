@@ -1,0 +1,13 @@
+{
+  "name": "node-example-app",
+  "version": "1.0.0",
+  "description": "Example of node app deployed to AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "baderfall",
+  "license": "ISC"
+}
